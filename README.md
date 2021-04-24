@@ -1,0 +1,2 @@
+# GatsbyCovidMap
+Created with CodeSandbox
